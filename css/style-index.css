@@ -1,0 +1,13 @@
+* {
+    background-color: #F7F7F7;
+    color: #333333;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+    margin: 4px 6px;
+    padding: 4px 4px;
+}
+
+button {
+    background-color: #D1C6B1;
+    font-size: 24px;
+    padding: 10px;   
+}
