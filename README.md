@@ -1,3 +1,3 @@
 # odin-recipes
 
-In this project I will code a website showcasing different recipies using different aspects of basic HTML
+In this project from "The Odin Project" I will code a recipe website utilizing different aspects of HTML and CSS. 
